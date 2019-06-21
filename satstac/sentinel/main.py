@@ -177,7 +177,7 @@ def transform(data):
         'B09': {'href': op.join(url, 'B09.jp2')},
         'B10': {'href': op.join(url, 'B10.jp2')},
         'B11': {'href': op.join(url, 'B11.jp2')},
-        'B12': {'href': op.join(url, 'B11.jp2')}
+        'B12': {'href': op.join(url, 'B12.jp2')}
     })
     #if dt < datetime(2016,12,6):
     #    del assets['tki']
